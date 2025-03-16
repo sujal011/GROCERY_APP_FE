@@ -95,3 +95,15 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+```
+npm i react-native-rolling-bar react-native-svg react-native-svg-transformer lottie-react-native zustand socket.io-client react-native-vector-icons react-native-screens react-nati
+ve-safe-area-context react-native-responsive-fonts
+ize react-native-reanimated-carousel react-native-
+reanimated react-native-mmkv react-native-gesture-
+handler react-native-maps-directions react-native-maps react-native-linear-gradient jwt-decode axios @react-navigation/native-stack @react-navigation/
+native @react-native-community/geolocation @r0b0t3
+d/react-native-collapsible @homielab/react-native-
+auto-scroll 
+```
