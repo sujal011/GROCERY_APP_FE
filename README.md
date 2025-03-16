@@ -107,3 +107,15 @@ native @react-native-community/geolocation @r0b0t3
 d/react-native-collapsible @homielab/react-native-
 auto-scroll 
 ```
+
+android manifest sample - 
+```
+<meta-data 
+      android:name="com.google.android.geo.API_KEY"
+      android:value="GMAP_API_KEY"
+      />
+```
+ios appdelegate below self.dependencyProvidder line
+```
+[GMSServices provideAPIKey:@"GOOGLE_MAP_API_KEY"]
+```
